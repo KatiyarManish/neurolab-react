@@ -1,5 +1,18 @@
 # Getting Started with Create React App
 
+ - Create react app
+ - clean up files
+ - tailwind set up as per docs
+ - create components folder
+ - create utils folder
+ - Call <Body> component in App.js
+ - Handle all other components in Body
+ - Set up react-router-dom via docs. Add routing in Body
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
